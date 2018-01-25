@@ -1,7 +1,5 @@
 # postcss-finding-dead-css
 
-![postcss-finding-dead-css](https://raw.githubusercontent.com/retyui/postcss-finding-dead-css/master/logo.png)
-
 [![npm](https://img.shields.io/npm/v/postcss-finding-dead-css.svg)](https://www.npmjs.com/package/postcss-finding-dead-css)
 [![David](https://img.shields.io/david/retyui/postcss-finding-dead-css.svg)](https://david-dm.org/retyui/postcss-finding-dead-css)
 
@@ -11,9 +9,8 @@ PostCSS plugin that help identifying the dead code. [Idea](https://csswizardry.c
 ## Install
 
 ```bash
-# the plugin
 yarn add -D postcss-finding-dead-css
-#or npm install --save-dev postcss-finding-dead-css
+# or npm install --save-dev postcss-finding-dead-css
 ```
 
 ## Input:
@@ -33,7 +30,7 @@ body {
 ```css
 body {
   margin: 0;
-  border-image-source: url('/cssdead?data=%7B%22selector%22:%22body%22,%22startLine%22:1,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/readme/input.css');
+  border-image-source: url('/cssdead?data=%7B%22selector%22:%22body%22,%22startLine%22:1,%22startColumn%22:1%7D&file=/path/to/file.css');
 }
 
 .alredy-use-border-image {
