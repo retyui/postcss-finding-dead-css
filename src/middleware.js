@@ -6,7 +6,7 @@ const gif1x1 = Buffer.from(
 	"base64"
 );
 const sendTranparentGif = res => {
-	res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+	// res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
 	res.setHeader("Content-Type", "image/gif");
 	res.statusCode = 200;
 	res.write(gif1x1);

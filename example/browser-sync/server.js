@@ -1,5 +1,5 @@
 // Node.js 8.x
-const {getMiddleware} = require("../finding-dead-css.js"); // analod require('postcss-finding-dead-css');
+const {getMiddleware} = require("../../finding-dead-css.js"); // analod require('postcss-finding-dead-css');
 const browserSync = require("browser-sync").create();
 const customUrls = require('./config.api.js');
 const {middlewareCheckDead, middlewareStat} = getMiddleware({

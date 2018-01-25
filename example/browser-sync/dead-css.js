@@ -2,7 +2,7 @@
 const fs = require("fs");
 const { resolve } = require("path");
 const postcss = require("postcss");
-const postcssDeadCss = require("../finding-dead-css.js"); // analod require('postcss-finding-dead-css');
+const postcssDeadCss = require("../../finding-dead-css.js"); // analod require('postcss-finding-dead-css');
 const customUrls = require("./config.api.js");
 
 const listFiles = [

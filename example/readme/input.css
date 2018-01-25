@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+
+.alredy-use-border-image {
+  border-image: linear-gradient(red, yellow) 10;
+}

@@ -5,7 +5,7 @@ export class MarkCss {
 		this._startApi = options.deadApiUrl ? options.deadApiUrl : "/cssdead";
 		this._url =
 			typeof options.url === "function"
-				? options.url
+				? options.url.bind(options)
 				: ({ file, ...data }) => {
 						return encodeURI(
 							`${this._startApi}?data=${JSON.stringify(data)}&file=${file}`
@@ -22,9 +22,10 @@ export class MarkCss {
 		};
 		return this._url(args);
 	}
-	processCss(root) {
+
+	processCss(root, result) {
 		root.walkRules(rule => {
-			if (MarkCss.hasBorderImageDecl(rule) === false) {
+			if (MarkCss.hasBorderImageDecl(rule, result) === false) {
 				const borderDecl = decl({
 					prop: "border-image-source",
 					value: `url('${this.getUrlByRule(rule)}')`
@@ -33,15 +34,16 @@ export class MarkCss {
 			}
 		});
 	}
-	static hasBorderImageDecl(rule) {
-		let result = false;
-		root.walkDecls(/border-image/, decl => {
+
+	static hasBorderImageDecl(rule, result) {
+		let _result = false;
+		rule.walkDecls(/border-image/, decl => {
 			decl.warn(
 				result,
 				"You use the border-image css declaration :) . Selector will not be marked."
 			);
-			result = true;
+			_result = true;
 		});
-		return result;
+		return _result;
 	}
 }

@@ -1,0 +1,1596 @@
+/*!
+ * Bootstrap Docs (https://getbootstrap.com)
+ * Copyright 2011-2017 The Bootstrap Authors
+ * Copyright 2011-2017 Twitter, Inc.
+ * Licensed under the Creative Commons Attribution 3.0 Unported License. For
+ * details, see https://creativecommons.org/licenses/by/3.0/.
+ */
+.bd-booticon {
+	display: block;
+	width: 9rem;
+	height: 9rem;
+	font-size: 6.5rem;
+	line-height: 9rem;
+	color: #fff;
+	text-align: center;
+	cursor: default;
+	background-color: #563d7c;
+	border-radius: 15%;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-booticon%22,%22startLine%22:8,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-booticon.inverse {
+	color: #563d7c;
+	background-color: #fff;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-booticon.inverse%22,%22startLine%22:20,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-booticon.outline {
+	background-color: transparent;
+	border: 1px solid #cdbfe3;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-booticon.outline%22,%22startLine%22:24,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-navbar .navbar-nav .nav-link {
+	color: #8e869d;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-navbar%20.navbar-nav%20.nav-link%22,%22startLine%22:28,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-navbar .navbar-nav .nav-link.active,
+.bd-navbar .navbar-nav .nav-link:focus,
+.bd-navbar .navbar-nav .nav-link:hover {
+	color: #292b2c;
+	background-color: transparent;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-navbar%20.navbar-nav%20.nav-link.active,%5Cn.bd-navbar%20.navbar-nav%20.nav-link:focus,%5Cn.bd-navbar%20.navbar-nav%20.nav-link:hover%22,%22startLine%22:31,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-navbar .navbar-nav .nav-link.active {
+	font-weight: 500;
+	color: #040404;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-navbar%20.navbar-nav%20.nav-link.active%22,%22startLine%22:37,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-navbar .dropdown-menu {
+	font-size: inherit;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-navbar%20.dropdown-menu%22,%22startLine%22:41,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead {
+	position: relative;
+	padding: 3rem 15px 2rem;
+	color: #cdbfe3;
+	text-align: center;
+	background-image: -webkit-linear-gradient(
+		315deg,
+		#271b38,
+		#563d7c,
+		#7952b3
+	);
+	background-image: -o-linear-gradient(315deg, #271b38, #563d7c, #7952b3);
+	background-image: linear-gradient(135deg, #271b38, #563d7c, #7952b3);
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%22,%22startLine%22:44,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead .bd-booticon {
+	margin: 0 auto 2rem;
+	color: #cdbfe3;
+	border-color: #cdbfe3;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.bd-booticon%22,%22startLine%22:58,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead h1 {
+	font-weight: 300;
+	line-height: 1;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20h1%22,%22startLine%22:63,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead .lead {
+	margin-right: auto;
+	margin-bottom: 2rem;
+	margin-left: auto;
+	font-size: 1.25rem;
+	color: #fff;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.lead%22,%22startLine%22:67,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead .version {
+	margin-top: -1rem;
+	margin-bottom: 2rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.version%22,%22startLine%22:74,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead .btn {
+	width: 100%;
+	padding: 1rem 2rem;
+	font-size: 1.25rem;
+	font-weight: 500;
+	color: #ffe484;
+	border-color: #ffe484;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.btn%22,%22startLine%22:78,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead .btn:hover {
+	color: #2a2730;
+	background-color: #ffe484;
+	border-color: #ffe484;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.btn:hover%22,%22startLine%22:86,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-masthead .carbonad {
+	margin-bottom: -2rem !important;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.carbonad%22,%22startLine%22:91,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-masthead {
+		padding-top: 8rem;
+		padding-bottom: 2rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%22,%22startLine%22:95,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead .btn {
+		width: auto;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.btn%22,%22startLine%22:99,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead .carbonad {
+		margin-bottom: 0 !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.carbonad%22,%22startLine%22:102,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 768px) {
+	.bd-masthead {
+		padding-bottom: 4rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%22,%22startLine%22:107,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead .bd-header {
+		margin-bottom: 4rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.bd-header%22,%22startLine%22:110,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead h1 {
+		font-size: 4rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20h1%22,%22startLine%22:113,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead .lead {
+		font-size: 1.5rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.lead%22,%22startLine%22:116,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead .carbonad {
+		margin-top: 3rem !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.carbonad%22,%22startLine%22:119,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 992px) {
+	.bd-masthead .lead {
+		width: 85%;
+		font-size: 2rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20.lead%22,%22startLine%22:124,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-featurette {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	color: #555;
+	text-align: center;
+	background-color: #fff;
+	border-top: 1px solid #eee;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%22,%22startLine%22:129,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featurette .highlight {
+	text-align: left;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.highlight%22,%22startLine%22:139,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featurette .lead {
+	margin-right: auto;
+	margin-bottom: 2rem;
+	margin-left: auto;
+	font-size: 1rem;
+	text-align: center;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.lead%22,%22startLine%22:142,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-featurette {
+		text-align: left;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%22,%22startLine%22:150,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 768px) {
+	.bd-featurette .col-sm-6:first-child {
+		padding-right: 45px;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.col-sm-6:first-child%22,%22startLine%22:155,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-featurette .col-sm-6:last-child {
+		padding-left: 45px;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.col-sm-6:last-child%22,%22startLine%22:158,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-featurette-title {
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+	font-weight: 400;
+	color: #333;
+	text-align: center;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette-title%22,%22startLine%22:162,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.half-rule {
+	width: 6rem;
+	margin: 2.5rem auto;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.half-rule%22,%22startLine%22:169,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.half-rule {
+		margin-right: 0;
+		margin-left: 0;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.half-rule%22,%22startLine%22:174,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-featurette h4 {
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+	font-weight: 400;
+	color: #333;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20h4%22,%22startLine%22:179,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featurette-img {
+	display: block;
+	margin-bottom: 1.25rem;
+	color: #333;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette-img%22,%22startLine%22:185,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featurette-img:hover {
+	color: #0275d8;
+	text-decoration: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette-img:hover%22,%22startLine%22:190,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featurette-img img {
+	display: block;
+	margin-bottom: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette-img%20img%22,%22startLine%22:194,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 480px) {
+	.bd-featurette .img-fluid {
+		margin-top: 2rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.img-fluid%22,%22startLine%22:199,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 768px) {
+	.bd-featurette {
+		padding-top: 6rem;
+		padding-bottom: 6rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%22,%22startLine%22:204,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-featurette-title {
+		font-size: 2.5rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette-title%22,%22startLine%22:208,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-featurette-title + .lead {
+		font-size: 1.5rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette-title%20+%20.lead%22,%22startLine%22:211,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-featurette .lead {
+		max-width: 80%;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.lead%22,%22startLine%22:214,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-featurette .img-fluid {
+		margin-top: 0;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featurette%20.img-fluid%22,%22startLine%22:217,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-featured-sites {
+	margin-right: -1px;
+	margin-left: -1px;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featured-sites%22,%22startLine%22:221,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featured-sites .col-6 {
+	padding: 1px;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featured-sites%20.col-6%22,%22startLine%22:225,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-featured-sites .img-fluid {
+	margin-top: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featured-sites%20.img-fluid%22,%22startLine%22:228,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 768px) {
+	.bd-featured-sites .col-sm-3:first-child img {
+		border-top-left-radius: 0.25rem;
+		border-bottom-left-radius: 0.25rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featured-sites%20.col-sm-3:first-child%20img%22,%22startLine%22:232,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-featured-sites .col-sm-3:last-child img {
+		border-top-right-radius: 0.25rem;
+		border-bottom-right-radius: 0.25rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-featured-sites%20.col-sm-3:last-child%20img%22,%22startLine%22:236,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+#carbonads {
+	display: block;
+	padding: 15px 15px 15px 160px;
+	margin: 50px -15px 0;
+	overflow: hidden;
+	font-size: 13px;
+	line-height: 1.5;
+	text-align: left;
+	border: solid #866ab3;
+	border-width: 1px 0 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#carbonads%22,%22startLine%22:241,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+#carbonads a {
+	color: #fff;
+	text-decoration: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#carbonads%20a%22,%22startLine%22:252,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	#carbonads {
+		max-width: 330px;
+		margin: 50px auto 0;
+		border-width: 1px;
+		border-radius: 4px;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#carbonads%22,%22startLine%22:257,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 992px) {
+	#carbonads {
+		position: absolute;
+		top: 0;
+		right: 15px;
+		margin-top: 0;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#carbonads%22,%22startLine%22:265,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-masthead #carbonads {
+		position: static;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-masthead%20#carbonads%22,%22startLine%22:271,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.carbon-img {
+	float: left;
+	margin-left: -145px;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.carbon-img%22,%22startLine%22:275,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.carbon-poweredby {
+	display: block;
+	color: #cdbfe3 !important;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.carbon-poweredby%22,%22startLine%22:279,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > table {
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 1rem;
+	overflow-y: auto;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20table%22,%22startLine%22:283,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > table > tbody > tr > td,
+.bd-content > table > tbody > tr > th,
+.bd-content > table > tfoot > tr > td,
+.bd-content > table > tfoot > tr > th,
+.bd-content > table > thead > tr > td,
+.bd-content > table > thead > tr > th {
+	padding: 0.75rem;
+	vertical-align: top;
+	border: 1px solid #eceeef;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20table%20%3E%20tbody%20%3E%20tr%20%3E%20td,%5Cn.bd-content%20%3E%20table%20%3E%20tbody%20%3E%20tr%20%3E%20th,%5Cn.bd-content%20%3E%20table%20%3E%20tfoot%20%3E%20tr%20%3E%20td,%5Cn.bd-content%20%3E%20table%20%3E%20tfoot%20%3E%20tr%20%3E%20th,%5Cn.bd-content%20%3E%20table%20%3E%20thead%20%3E%20tr%20%3E%20td,%5Cn.bd-content%20%3E%20table%20%3E%20thead%20%3E%20tr%20%3E%20th%22,%22startLine%22:290,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > table > tbody > tr > td > p:last-child,
+.bd-content > table > tbody > tr > th > p:last-child,
+.bd-content > table > tfoot > tr > td > p:last-child,
+.bd-content > table > tfoot > tr > th > p:last-child,
+.bd-content > table > thead > tr > td > p:last-child,
+.bd-content > table > thead > tr > th > p:last-child {
+	margin-bottom: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20table%20%3E%20tbody%20%3E%20tr%20%3E%20td%20%3E%20p:last-child,%5Cn.bd-content%20%3E%20table%20%3E%20tbody%20%3E%20tr%20%3E%20th%20%3E%20p:last-child,%5Cn.bd-content%20%3E%20table%20%3E%20tfoot%20%3E%20tr%20%3E%20td%20%3E%20p:last-child,%5Cn.bd-content%20%3E%20table%20%3E%20tfoot%20%3E%20tr%20%3E%20th%20%3E%20p:last-child,%5Cn.bd-content%20%3E%20table%20%3E%20thead%20%3E%20tr%20%3E%20td%20%3E%20p:last-child,%5Cn.bd-content%20%3E%20table%20%3E%20thead%20%3E%20tr%20%3E%20th%20%3E%20p:last-child%22,%22startLine%22:300,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > table td:first-child > code {
+	white-space: nowrap;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20table%20td:first-child%20%3E%20code%22,%22startLine%22:308,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > h2:not(:first-child) {
+	margin-top: 3rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20h2:not(:first-child)%22,%22startLine%22:311,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > h3 {
+	margin-top: 1.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20h3%22,%22startLine%22:314,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-content > ol li,
+.bd-content > ul li {
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-content%20%3E%20ol%20li,%5Cn.bd-content%20%3E%20ul%20li%22,%22startLine%22:317,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-title {
+		font-size: 3rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-title%22,%22startLine%22:322,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-title + p {
+		font-size: 1.25rem;
+		font-weight: 300;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-title%20+%20p%22,%22startLine%22:325,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+#markdown-toc > li:first-child {
+	display: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#markdown-toc%20%3E%20li:first-child%22,%22startLine%22:330,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+#markdown-toc ul {
+	padding-left: 2rem;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#markdown-toc%20ul%22,%22startLine%22:333,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-pageheader {
+	padding: 2rem 15px;
+	margin-bottom: 1.5rem;
+	color: #cdbfe3;
+	text-align: center;
+	background-color: #563d7c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%22,%22startLine%22:338,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-pageheader .container {
+	position: relative;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20.container%22,%22startLine%22:345,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-pageheader h1 {
+	font-size: 3rem;
+	font-weight: 400;
+	color: #fff;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20h1%22,%22startLine%22:348,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-pageheader p {
+	margin-bottom: 0;
+	font-size: 1.25rem;
+	font-weight: 300;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20p%22,%22startLine%22:353,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-pageheader {
+		padding-top: 4rem;
+		padding-bottom: 4rem;
+		margin-bottom: 3rem;
+		text-align: left;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%22,%22startLine%22:359,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-pageheader .carbonad {
+		margin: 2rem 0 0 !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20.carbonad%22,%22startLine%22:365,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 768px) {
+	.bd-pageheader h1 {
+		font-size: 4rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20h1%22,%22startLine%22:370,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-pageheader p {
+		font-size: 1.5rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20p%22,%22startLine%22:373,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 992px) {
+	.bd-pageheader h1,
+	.bd-pageheader p {
+		margin-right: 380px;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20h1,%5Cn%5Ct.bd-pageheader%20p%22,%22startLine%22:378,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-pageheader .carbonad {
+		position: absolute;
+		top: 0;
+		right: 0.75rem;
+		margin: 0 !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-pageheader%20.carbonad%22,%22startLine%22:382,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+#skippy {
+	display: block;
+	padding: 1em;
+	color: #fff;
+	background-color: #563d7c;
+	outline: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#skippy%22,%22startLine%22:389,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+#skippy .skiplink-text {
+	padding: 0.5em;
+	outline: 1px dotted;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22#skippy%20.skiplink-text%22,%22startLine%22:396,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 768px) {
+	.bd-sidebar {
+		padding-left: 1rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-sidebar%22,%22startLine%22:401,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-search {
+	position: relative;
+	margin-bottom: 1.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search%22,%22startLine%22:405,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search .form-control {
+	height: 2.45rem;
+	padding-top: 0.4rem;
+	padding-bottom: 0.4rem;
+	background-color: #fafafa;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search%20.form-control%22,%22startLine%22:409,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search .form-control:focus {
+	background-color: #fff;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search%20.form-control:focus%22,%22startLine%22:415,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search-results {
+	right: 0;
+	display: block;
+	padding: 0;
+	overflow: hidden;
+	font-size: 0.9rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search-results%22,%22startLine%22:418,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search-results:empty {
+	display: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search-results:empty%22,%22startLine%22:425,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search-results .dropdown-item {
+	padding-right: 0.75rem;
+	padding-left: 0.75rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search-results%20.dropdown-item%22,%22startLine%22:428,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search-results .dropdown-item:first-child {
+	margin-top: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search-results%20.dropdown-item:first-child%22,%22startLine%22:432,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search-results .dropdown-item:last-child {
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search-results%20.dropdown-item:last-child%22,%22startLine%22:435,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-search-results .no-results {
+	padding: 0.75rem 1rem;
+	color: #7a7a7a;
+	text-align: center;
+	white-space: normal;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-search-results%20.no-results%22,%22startLine%22:438,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-sidenav {
+	display: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-sidenav%22,%22startLine%22:444,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-toc-link {
+	display: block;
+	padding: 0.25rem 0.75rem;
+	color: #464a4c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-toc-link%22,%22startLine%22:447,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-toc-link:focus,
+.bd-toc-link:hover {
+	color: #0275d8;
+	text-decoration: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-toc-link:focus,%5Cn.bd-toc-link:hover%22,%22startLine%22:452,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.active > .bd-toc-link {
+	font-weight: 500;
+	color: #292b2c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.active%20%3E%20.bd-toc-link%22,%22startLine%22:457,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.active > .bd-sidenav {
+	display: block;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.active%20%3E%20.bd-sidenav%22,%22startLine%22:461,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-toc-item.active {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-toc-item.active%22,%22startLine%22:464,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-toc-item:first-child {
+	margin-top: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-toc-item:first-child%22,%22startLine%22:468,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-toc-item:last-child {
+	margin-bottom: 2rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-toc-item:last-child%22,%22startLine%22:471,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-sidebar .nav > li > a {
+	display: block;
+	padding: 0.25rem 0.75rem;
+	font-size: 90%;
+	color: #99979c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-sidebar%20.nav%20%3E%20li%20%3E%20a%22,%22startLine%22:474,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-sidebar .nav > li > a:focus,
+.bd-sidebar .nav > li > a:hover {
+	color: #0275d8;
+	text-decoration: none;
+	background-color: transparent;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-sidebar%20.nav%20%3E%20li%20%3E%20a:focus,%5Cn.bd-sidebar%20.nav%20%3E%20li%20%3E%20a:hover%22,%22startLine%22:480,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-sidebar .nav > .active:focus > a,
+.bd-sidebar .nav > .active:hover > a,
+.bd-sidebar .nav > .active > a {
+	font-weight: 500;
+	color: #292b2c;
+	background-color: transparent;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-sidebar%20.nav%20%3E%20.active:focus%20%3E%20a,%5Cn.bd-sidebar%20.nav%20%3E%20.active:hover%20%3E%20a,%5Cn.bd-sidebar%20.nav%20%3E%20.active%20%3E%20a%22,%22startLine%22:486,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-footer {
+	padding: 4rem 0;
+	margin-top: 4rem;
+	font-size: 85%;
+	text-align: center;
+	background-color: #f7f7f7;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer%22,%22startLine%22:493,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-footer a {
+	font-weight: 500;
+	color: #464a4c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer%20a%22,%22startLine%22:500,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-footer a:hover {
+	color: #0275d8;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer%20a:hover%22,%22startLine%22:504,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-footer p {
+	margin-bottom: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer%20p%22,%22startLine%22:507,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-footer {
+		text-align: left;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer%22,%22startLine%22:511,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-footer-links {
+	padding-left: 0;
+	margin-bottom: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer-links%22,%22startLine%22:515,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-footer-links li {
+	display: inline-block;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer-links%20li%22,%22startLine%22:519,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-footer-links li + li {
+	margin-left: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-footer-links%20li%20+%20li%22,%22startLine%22:522,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-row .row + .row {
+	margin-top: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-row%20.row%20+%20.row%22,%22startLine%22:525,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-row .row > .col,
+.bd-example-row .row > [class^="col-"] {
+	padding-top: 0.75rem;
+	padding-bottom: 0.75rem;
+	background-color: rgba(86, 61, 124, 0.15);
+	border: 1px solid rgba(86, 61, 124, 0.2);
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-row%20.row%20%3E%20.col,%5Cn.bd-example-row%20.row%20%3E%20%5Bclass%5E=%5C%22col-%5C%22%5D%22,%22startLine%22:528,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-row .flex-items-bottom,
+.bd-example-row .flex-items-middle,
+.bd-example-row .flex-items-top {
+	min-height: 6rem;
+	background-color: rgba(255, 0, 0, 0.1);
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-row%20.flex-items-bottom,%5Cn.bd-example-row%20.flex-items-middle,%5Cn.bd-example-row%20.flex-items-top%22,%22startLine%22:535,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-row-flex-cols .row {
+	min-height: 10rem;
+	background-color: rgba(255, 0, 0, 0.1);
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-row-flex-cols%20.row%22,%22startLine%22:541,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-highlight {
+	background-color: rgba(86, 61, 124, 0.15);
+	border: 1px solid rgba(86, 61, 124, 0.15);
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-highlight%22,%22startLine%22:545,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-container {
+	min-width: 16rem;
+	max-width: 25rem;
+	margin-right: auto;
+	margin-left: auto;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-container%22,%22startLine%22:549,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-container-header {
+	height: 3rem;
+	margin-bottom: 0.5rem;
+	background-color: #daeeff;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-container-header%22,%22startLine%22:555,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-container-sidebar {
+	float: right;
+	width: 4rem;
+	height: 8rem;
+	background-color: #fae3c4;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-container-sidebar%22,%22startLine%22:561,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-container-body {
+	height: 8rem;
+	margin-right: 4.5rem;
+	background-color: #957bbe;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-container-body%22,%22startLine%22:568,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-container-fluid {
+	max-width: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-container-fluid%22,%22startLine%22:574,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example {
+	position: relative;
+	padding: 1rem;
+	margin: 1rem -1rem;
+	border: solid #f7f7f9;
+	border-width: 0.2rem 0 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%22,%22startLine%22:577,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example::after {
+	display: block;
+	content: "";
+	clear: both;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example::after%22,%22startLine%22:584,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-example {
+		padding: 1.5rem;
+		margin-right: 0;
+		margin-bottom: 0;
+		margin-left: 0;
+		border-width: 0.2rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%22,%22startLine%22:590,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-example + .clipboard + .highlight,
+.bd-example + .highlight {
+	margin-top: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20+%20.clipboard%20+%20.highlight,%5Cn.bd-example%20+%20.highlight%22,%22startLine%22:598,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example + p {
+	margin-top: 2rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20+%20p%22,%22startLine%22:602,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example .pos-f-t {
+	position: relative;
+	margin: -1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.pos-f-t%22,%22startLine%22:605,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-example .pos-f-t {
+		margin: -1.5rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.pos-f-t%22,%22startLine%22:610,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-example > .form-control + .form-control {
+	margin-top: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.form-control%20+%20.form-control%22,%22startLine%22:614,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .alert + .alert,
+.bd-example > .nav + .nav,
+.bd-example > .navbar + .navbar,
+.bd-example > .progress + .btn,
+.bd-example > .progress + .progress {
+	margin-top: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.alert%20+%20.alert,%5Cn.bd-example%20%3E%20.nav%20+%20.nav,%5Cn.bd-example%20%3E%20.navbar%20+%20.navbar,%5Cn.bd-example%20%3E%20.progress%20+%20.btn,%5Cn.bd-example%20%3E%20.progress%20+%20.progress%22,%22startLine%22:617,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .dropdown-menu:first-child {
+	position: static;
+	display: block;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.dropdown-menu:first-child%22,%22startLine%22:624,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .form-group:last-child {
+	margin-bottom: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.form-group:last-child%22,%22startLine%22:628,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .close {
+	float: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.close%22,%22startLine%22:631,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-type .table .type-info {
+	color: #999;
+	vertical-align: middle;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-type%20.table%20.type-info%22,%22startLine%22:634,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-type .table td {
+	padding: 1rem 0;
+	border-color: #eee;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-type%20.table%20td%22,%22startLine%22:638,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-type .table tr:first-child td {
+	border-top: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-type%20.table%20tr:first-child%20td%22,%22startLine%22:642,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-type h1,
+.bd-example-type h2,
+.bd-example-type h3,
+.bd-example-type h4,
+.bd-example-type h5,
+.bd-example-type h6 {
+	margin: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-type%20h1,%5Cn.bd-example-type%20h2,%5Cn.bd-example-type%20h3,%5Cn.bd-example-type%20h4,%5Cn.bd-example-type%20h5,%5Cn.bd-example-type%20h6%22,%22startLine%22:645,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-bg-classes p {
+	padding: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-bg-classes%20p%22,%22startLine%22:653,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > img + img {
+	margin-left: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20img%20+%20img%22,%22startLine%22:656,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .btn-group {
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.btn-group%22,%22startLine%22:659,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .btn-toolbar + .btn-toolbar {
+	margin-top: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.btn-toolbar%20+%20.btn-toolbar%22,%22startLine%22:663,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-control-sizing input[type="text"] + input[type="text"],
+.bd-example-control-sizing select {
+	margin-top: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-control-sizing%20input%5Btype=%5C%22text%5C%22%5D%20+%20input%5Btype=%5C%22text%5C%22%5D,%5Cn.bd-example-control-sizing%20select%22,%22startLine%22:666,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-form .input-group {
+	margin-bottom: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-form%20.input-group%22,%22startLine%22:670,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > textarea.form-control {
+	resize: vertical;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20textarea.form-control%22,%22startLine%22:673,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .list-group {
+	max-width: 400px;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.list-group%22,%22startLine%22:676,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example .fixed-top,
+.bd-example .sticky-top {
+	position: static;
+	margin: -1rem -1rem 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.fixed-top,%5Cn.bd-example%20.sticky-top%22,%22startLine%22:679,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example .fixed-bottom {
+	position: static;
+	margin: 1rem -1rem -1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.fixed-bottom%22,%22startLine%22:684,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.bd-example .fixed-top,
+	.bd-example .sticky-top {
+		margin: -1.5rem -1.5rem 1rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.fixed-top,%5Cn%5Ct.bd-example%20.sticky-top%22,%22startLine%22:689,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-example .fixed-bottom {
+		margin: 1rem -1.5rem -1.5rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.fixed-bottom%22,%22startLine%22:693,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-example .pagination {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20.pagination%22,%22startLine%22:697,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-modal {
+	background-color: #fafafa;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-modal%22,%22startLine%22:701,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-modal .modal {
+	position: relative;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	z-index: 1;
+	display: block;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-modal%20.modal%22,%22startLine%22:704,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-modal .modal-dialog {
+	left: auto;
+	margin-right: auto;
+	margin-left: auto;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-modal%20.modal-dialog%22,%22startLine%22:713,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-tabs .nav-tabs {
+	margin-bottom: 1rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-tabs%20.nav-tabs%22,%22startLine%22:718,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-tooltips {
+	text-align: center;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-tooltips%22,%22startLine%22:721,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-tooltips > .btn {
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-tooltips%20%3E%20.btn%22,%22startLine%22:724,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-popover-static {
+	padding-bottom: 1.5rem;
+	background-color: #f9f9f9;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-popover-static%22,%22startLine%22:728,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-popover-static .popover {
+	position: relative;
+	display: block;
+	float: left;
+	width: 260px;
+	margin: 1.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-popover-static%20.popover%22,%22startLine%22:732,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.tooltip-demo a {
+	white-space: nowrap;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.tooltip-demo%20a%22,%22startLine%22:739,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-tooltip-static .tooltip {
+	position: relative;
+	display: inline-block;
+	margin: 10px 20px;
+	opacity: 1;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-tooltip-static%20.tooltip%22,%22startLine%22:742,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.scrollspy-example {
+	position: relative;
+	height: 200px;
+	margin-top: 0.5rem;
+	overflow: auto;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.scrollspy-example%22,%22startLine%22:748,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example > .bg-danger:not(.navbar),
+.bd-example > .bg-faded:not(.navbar),
+.bd-example > .bg-info:not(.navbar),
+.bd-example > .bg-inverse:not(.navbar),
+.bd-example > .bg-primary:not(.navbar),
+.bd-example > .bg-success:not(.navbar),
+.bd-example > .bg-warning:not(.navbar) {
+	padding: 0.5rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example%20%3E%20.bg-danger:not(.navbar),%5Cn.bd-example%20%3E%20.bg-faded:not(.navbar),%5Cn.bd-example%20%3E%20.bg-info:not(.navbar),%5Cn.bd-example%20%3E%20.bg-inverse:not(.navbar),%5Cn.bd-example%20%3E%20.bg-primary:not(.navbar),%5Cn.bd-example%20%3E%20.bg-success:not(.navbar),%5Cn.bd-example%20%3E%20.bg-warning:not(.navbar)%22,%22startLine%22:754,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-example-border-utils [class^="border-"] {
+	display: inline-block;
+	width: 6rem;
+	height: 6rem;
+	margin: 0.25rem;
+	background-color: #f5f5f5;
+	border: 1px solid;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-example-border-utils%20%5Bclass%5E=%5C%22border-%5C%22%5D%22,%22startLine%22:765,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.highlight {
+	padding: 1rem;
+	margin: 1rem -15px;
+	background-color: #f7f7f9;
+	-ms-overflow-style: -ms-autohiding-scrollbar;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.highlight%22,%22startLine%22:773,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 576px) {
+	.highlight {
+		padding: 1.5rem;
+		margin-right: 0;
+		margin-left: 0;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.highlight%22,%22startLine%22:780,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.highlight pre {
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: transparent;
+	border: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.highlight%20pre%22,%22startLine%22:786,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.highlight pre code {
+	font-size: inherit;
+	color: #292b2c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.highlight%20pre%20code%22,%22startLine%22:793,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.table-responsive .highlight pre {
+	white-space: normal;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.table-responsive%20.highlight%20pre%22,%22startLine%22:797,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-table th small,
+.responsive-utilities th small {
+	display: block;
+	font-weight: 400;
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-table%20th%20small,%5Cn.responsive-utilities%20th%20small%22,%22startLine%22:800,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities tbody th {
+	font-weight: 400;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities%20tbody%20th%22,%22startLine%22:806,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities td {
+	text-align: center;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities%20td%22,%22startLine%22:809,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities .is-visible {
+	color: #468847;
+	background-color: #dff0d8 !important;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities%20.is-visible%22,%22startLine%22:812,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities .is-hidden {
+	color: #ccc;
+	background-color: #f9f9f9 !important;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities%20.is-hidden%22,%22startLine%22:816,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities-test {
+	margin-top: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities-test%22,%22startLine%22:820,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities-test .col-6 {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities-test%20.col-6%22,%22startLine%22:823,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.responsive-utilities-test span {
+	display: block;
+	padding: 1rem 0.5rem;
+	font-size: 1rem;
+	font-weight: 700;
+	line-height: 1.1;
+	text-align: center;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.responsive-utilities-test%20span%22,%22startLine%22:827,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.hidden-on .col-6 > .not-visible,
+.visible-on .col-6 > .not-visible {
+	color: #999;
+	border: 1px solid #ddd;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-on%20.col-6%20%3E%20.not-visible,%5Cn.visible-on%20.col-6%20%3E%20.not-visible%22,%22startLine%22:836,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.hidden-on .col-6 .visible,
+.visible-on .col-6 .visible {
+	color: #468847;
+	background-color: #dff0d8;
+	border: 1px solid #d6e9c6;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-on%20.col-6%20.visible,%5Cn.visible-on%20.col-6%20.visible%22,%22startLine%22:841,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (max-width: 575px) {
+	.hidden-xs-only {
+		display: none !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-xs-only%22,%22startLine%22:848,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+	.hidden-sm-only {
+		display: none !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-sm-only%22,%22startLine%22:853,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.hidden-md-only {
+		display: none !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-md-only%22,%22startLine%22:858,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.hidden-lg-only {
+		display: none !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-lg-only%22,%22startLine%22:863,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+@media (min-width: 1200px) {
+	.hidden-xl-only {
+		display: none !important;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hidden-xl-only%22,%22startLine%22:868,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.btn-bs {
+	font-weight: 500;
+	color: #7952b3;
+	border-color: #7952b3;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.btn-bs%22,%22startLine%22:872,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.btn-bs:active,
+.btn-bs:focus,
+.btn-bs:hover {
+	color: #fff;
+	background-color: #7952b3;
+	border-color: #7952b3;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.btn-bs:active,%5Cn.btn-bs:focus,%5Cn.btn-bs:hover%22,%22startLine%22:877,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout {
+	padding: 1.25rem;
+	margin-top: 1.25rem;
+	margin-bottom: 1.25rem;
+	border: 1px solid #eee;
+	border-left-width: 0.25rem;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout%22,%22startLine%22:884,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout h4 {
+	margin-top: 0;
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout%20h4%22,%22startLine%22:892,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout p:last-child {
+	margin-bottom: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout%20p:last-child%22,%22startLine%22:896,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout code {
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout%20code%22,%22startLine%22:899,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout + .bd-callout {
+	margin-top: -0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout%20+%20.bd-callout%22,%22startLine%22:902,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout-info {
+	border-left-color: #5bc0de;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout-info%22,%22startLine%22:905,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout-info h4 {
+	color: #5bc0de;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout-info%20h4%22,%22startLine%22:908,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout-warning {
+	border-left-color: #f0ad4e;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout-warning%22,%22startLine%22:911,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout-warning h4 {
+	color: #f0ad4e;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout-warning%20h4%22,%22startLine%22:914,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout-danger {
+	border-left-color: #d9534f;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout-danger%22,%22startLine%22:917,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-callout-danger h4 {
+	color: #d9534f;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-callout-danger%20h4%22,%22startLine%22:920,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-examples .img-thumbnail {
+	margin-bottom: 0.75rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-examples%20.img-thumbnail%22,%22startLine%22:923,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-examples h4 {
+	margin-bottom: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-examples%20h4%22,%22startLine%22:926,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-examples p {
+	margin-bottom: 1.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-examples%20p%22,%22startLine%22:929,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (max-width: 480px) {
+	.bd-examples {
+		margin-right: -0.75rem;
+		margin-left: -0.75rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-examples%22,%22startLine%22:933,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-examples > [class^="col-"] {
+		padding-right: 0.75rem;
+		padding-left: 0.75rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-examples%20%3E%20%5Bclass%5E=%5C%22col-%5C%22%5D%22,%22startLine%22:937,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.bd-team {
+	margin-bottom: 1.5rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-team%22,%22startLine%22:942,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-team .team-member {
+	line-height: 2rem;
+	color: #555;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-team%20.team-member%22,%22startLine%22:945,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-team .team-member:hover {
+	color: #333;
+	text-decoration: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-team%20.team-member:hover%22,%22startLine%22:949,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-team .github-btn {
+	float: right;
+	width: 180px;
+	height: 1.25rem;
+	margin-top: 0.25rem;
+	border: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-team%20.github-btn%22,%22startLine%22:953,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-team img {
+	float: left;
+	width: 2rem;
+	margin-right: 0.5rem;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-team%20img%22,%22startLine%22:960,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-browser-bugs td p {
+	margin-bottom: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-browser-bugs%20td%20p%22,%22startLine%22:966,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-browser-bugs th:first-child {
+	width: 18%;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-browser-bugs%20th:first-child%22,%22startLine%22:969,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-brand-logos {
+	display: table;
+	width: 100%;
+	margin-bottom: 1rem;
+	overflow: hidden;
+	color: #563d7c;
+	background-color: #f9f9f9;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-logos%22,%22startLine%22:972,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-brand-item {
+	padding: 4rem 0;
+	text-align: center;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%22,%22startLine%22:981,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-brand-item + .bd-brand-item {
+	border-top: 1px solid #fff;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%20+%20.bd-brand-item%22,%22startLine%22:985,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-brand-logos .inverse {
+	color: #fff;
+	background-color: #563d7c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-logos%20.inverse%22,%22startLine%22:988,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-brand-item h1,
+.bd-brand-item h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%20h1,%5Cn.bd-brand-item%20h3%22,%22startLine%22:992,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-brand-item .bd-booticon {
+	margin-right: auto;
+	margin-left: auto;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%20.bd-booticon%22,%22startLine%22:997,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 768px) {
+	.bd-brand-item {
+		display: table-cell;
+		width: 1%;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%22,%22startLine%22:1002,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-brand-item + .bd-brand-item {
+		border-top: 0;
+		border-left: 1px solid #fff;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%20+%20.bd-brand-item%22,%22startLine%22:1006,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+	.bd-brand-item h1 {
+		font-size: 4rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-brand-item%20h1%22,%22startLine%22:1010,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.color-swatches {
+	margin: 0 -5px;
+	overflow: hidden;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatches%22,%22startLine%22:1014,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.color-swatch {
+	float: left;
+	width: 4rem;
+	height: 4rem;
+	margin-right: 0.25rem;
+	margin-left: 0.25rem;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatch%22,%22startLine%22:1018,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 768px) {
+	.color-swatch {
+		width: 6rem;
+		height: 6rem;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatch%22,%22startLine%22:1027,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.color-swatches .bd-purple {
+	background-color: #563d7c;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatches%20.bd-purple%22,%22startLine%22:1032,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.color-swatches .bd-purple-light {
+	background-color: #cdbfe3;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatches%20.bd-purple-light%22,%22startLine%22:1035,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.color-swatches .bd-purple-lighter {
+	background-color: #e5e1ea;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatches%20.bd-purple-lighter%22,%22startLine%22:1038,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.color-swatches .bd-gray {
+	background-color: #f9f9f9;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.color-swatches%20.bd-gray%22,%22startLine%22:1041,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-clipboard {
+	position: relative;
+	display: none;
+	float: right;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-clipboard%22,%22startLine%22:1044,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bd-clipboard + .highlight {
+	margin-top: 0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-clipboard%20+%20.highlight%22,%22startLine%22:1049,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.btn-clipboard {
+	position: absolute;
+	top: 0.5rem;
+	right: 0.5rem;
+	z-index: 10;
+	display: block;
+	padding: 0.25rem 0.5rem;
+	font-size: 75%;
+	color: #818a91;
+	cursor: pointer;
+	background-color: transparent;
+	border-radius: 0.25rem;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.btn-clipboard%22,%22startLine%22:1052,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.btn-clipboard:hover {
+	color: #fff;
+	background-color: #027de7;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.btn-clipboard:hover%22,%22startLine%22:1065,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (min-width: 768px) {
+	.bd-clipboard {
+		display: block;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bd-clipboard%22,%22startLine%22:1070,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+.hll {
+	background-color: #ffc;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.hll%22,%22startLine%22:1074,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.c {
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.c%22,%22startLine%22:1077,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.k {
+	color: #069;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.k%22,%22startLine%22:1080,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.o {
+	color: #555;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.o%22,%22startLine%22:1083,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.cm {
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.cm%22,%22startLine%22:1086,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.cp {
+	color: #099;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.cp%22,%22startLine%22:1089,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.c1 {
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.c1%22,%22startLine%22:1092,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.cs {
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.cs%22,%22startLine%22:1095,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gd {
+	background-color: #fcc;
+	border: 1px solid #c00;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gd%22,%22startLine%22:1098,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.ge {
+	font-style: italic;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.ge%22,%22startLine%22:1102,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gr {
+	color: red;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gr%22,%22startLine%22:1105,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gh {
+	color: #030;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gh%22,%22startLine%22:1108,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gi {
+	background-color: #cfc;
+	border: 1px solid #0c0;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gi%22,%22startLine%22:1111,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.go {
+	color: #aaa;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.go%22,%22startLine%22:1115,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gp {
+	color: #009;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gp%22,%22startLine%22:1118,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gu {
+	color: #030;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gu%22,%22startLine%22:1121,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.gt {
+	color: #9c6;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.gt%22,%22startLine%22:1124,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.kc {
+	color: #069;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.kc%22,%22startLine%22:1127,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.kd {
+	color: #069;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.kd%22,%22startLine%22:1130,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.kn {
+	color: #069;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.kn%22,%22startLine%22:1133,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.kp {
+	color: #069;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.kp%22,%22startLine%22:1136,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.kr {
+	color: #069;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.kr%22,%22startLine%22:1139,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.kt {
+	color: #078;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.kt%22,%22startLine%22:1142,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.m {
+	color: #f60;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.m%22,%22startLine%22:1145,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.s {
+	color: #d44950;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.s%22,%22startLine%22:1148,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.na {
+	color: #4f9fcf;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.na%22,%22startLine%22:1151,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nb {
+	color: #366;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nb%22,%22startLine%22:1154,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nc {
+	color: #0a8;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nc%22,%22startLine%22:1157,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.no {
+	color: #360;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.no%22,%22startLine%22:1160,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nd {
+	color: #99f;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nd%22,%22startLine%22:1163,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.ni {
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.ni%22,%22startLine%22:1166,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.ne {
+	color: #c00;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.ne%22,%22startLine%22:1169,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nf {
+	color: #c0f;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nf%22,%22startLine%22:1172,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nl {
+	color: #99f;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nl%22,%22startLine%22:1175,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nn {
+	color: #0cf;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nn%22,%22startLine%22:1178,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nt {
+	color: #2f6f9f;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nt%22,%22startLine%22:1181,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.nv {
+	color: #033;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.nv%22,%22startLine%22:1184,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.ow {
+	color: #000;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.ow%22,%22startLine%22:1187,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.w {
+	color: #bbb;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.w%22,%22startLine%22:1190,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.mf {
+	color: #f60;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.mf%22,%22startLine%22:1193,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.mh {
+	color: #f60;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.mh%22,%22startLine%22:1196,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.mi {
+	color: #f60;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.mi%22,%22startLine%22:1199,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.mo {
+	color: #f60;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.mo%22,%22startLine%22:1202,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.sb {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.sb%22,%22startLine%22:1205,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.sc {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.sc%22,%22startLine%22:1208,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.sd {
+	font-style: italic;
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.sd%22,%22startLine%22:1211,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.s2 {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.s2%22,%22startLine%22:1215,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.se {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.se%22,%22startLine%22:1218,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.sh {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.sh%22,%22startLine%22:1221,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.si {
+	color: #a00;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.si%22,%22startLine%22:1224,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.sx {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.sx%22,%22startLine%22:1227,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.sr {
+	color: #3aa;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.sr%22,%22startLine%22:1230,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.s1 {
+	color: #c30;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.s1%22,%22startLine%22:1233,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.ss {
+	color: #fc3;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.ss%22,%22startLine%22:1236,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.bp {
+	color: #366;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.bp%22,%22startLine%22:1239,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.vc {
+	color: #033;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.vc%22,%22startLine%22:1242,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.vg {
+	color: #033;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.vg%22,%22startLine%22:1245,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.vi {
+	color: #033;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.vi%22,%22startLine%22:1248,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.il {
+	color: #f60;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.il%22,%22startLine%22:1251,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.css .nt + .nt,
+.css .o,
+.css .o + .nt {
+	color: #999;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.css%20.nt%20+%20.nt,%5Cn.css%20.o,%5Cn.css%20.o%20+%20.nt%22,%22startLine%22:1254,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.language-bash::before {
+	color: #009;
+	content: "$ ";
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.language-bash::before%22,%22startLine%22:1259,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.language-powershell::before {
+	color: #009;
+	content: "PM> ";
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.language-powershell::before%22,%22startLine%22:1267,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.anchorjs-link {
+	color: inherit;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.anchorjs-link%22,%22startLine%22:1275,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+@media (max-width: 480px) {
+	.anchorjs-link {
+		display: none;
+		border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.anchorjs-link%22,%22startLine%22:1279,%22startColumn%22:2%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+	}
+}
+:hover > .anchorjs-link {
+	opacity: 0.75;
+	-webkit-transition: color 0.16s linear;
+	-o-transition: color 0.16s linear;
+	transition: color 0.16s linear;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22:hover%20%3E%20.anchorjs-link%22,%22startLine%22:1283,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.anchorjs-link:focus,
+:hover > .anchorjs-link:hover {
+	text-decoration: none;
+	opacity: 1;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.anchorjs-link:focus,%5Cn:hover%20%3E%20.anchorjs-link:hover%22,%22startLine%22:1289,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.b4b {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 1000;
+	font-size: 14px;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.b4b%22,%22startLine%22:1294,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
+.b4b:hover {
+	text-decoration: none;
+	border-image-source: url('/my-custom/path/cssdead?data=%7B%22selector%22:%22.b4b:hover%22,%22startLine%22:1301,%22startColumn%22:1%7D&file=/home/mur/github/postcss-finding-dead-css/example/browser-sync/src/docs.css');
+}
