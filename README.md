@@ -1,5 +1,8 @@
 # postcss-finding-dead-css
 
+![postcss-finding-dead-css](https://raw.githubusercontent.com/retyui/postcss-finding-dead-css/master/logo.svg)
+
+
 [![npm](https://img.shields.io/npm/v/postcss-finding-dead-css.svg)](https://www.npmjs.com/package/postcss-finding-dead-css)
 [![David](https://img.shields.io/david/retyui/postcss-finding-dead-css.svg)](https://david-dm.org/retyui/postcss-finding-dead-css)
 
